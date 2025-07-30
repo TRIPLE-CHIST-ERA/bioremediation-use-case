@@ -3,6 +3,10 @@
 Repository to store scripts and SPARQL queries for the Chist-ERA TRIPLE project
 use case.
 
+</br>
+
+## Use-case description
+
 The objective of this use-case is to provide a demonstration showing how data
 from different SPARQL endpoints can be combined to retrieve complex
 information: in this specific case, identifying organisms with bioremediation
